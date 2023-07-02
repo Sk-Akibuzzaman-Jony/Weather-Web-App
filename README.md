@@ -1,10 +1,11 @@
 NOTES-->
 ->Steps To Run:
+
     Step1=> npm i
     This command will install the necessary Node modules based on the information in the package.json file.
     Step2=> npm run dev
     This command will start the Next.js development server, and you should see output indicating that the server is running.
-    Step3=> Open your web browser and visit http://localhost:3000. This is the local development URL where your weather app will be accessible.
+    Step3=> Open your web browser and visit http://localhost:3000. This is the local development URL where your weather app     will be accessible.
 
 
     
